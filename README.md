@@ -46,6 +46,40 @@ Downloads/
     └── script.sh
 ```
 
+
+## 📸 Screenshots
+
+### 1. Test Directory Before Organization
+
+The test directory contains files of different types and extensions before running the Linux File Organizer.
+
+![Test Directory Before Organization](screenshots/BeforeProcessing.jpg)
+
+---
+
+### 2. File Detection and Categorization
+
+The organizer detects each file, identifies its extension, assigns the appropriate category, and moves the file to the corresponding folder.
+
+![File Detection and Categorization](screenshots/ProcessStart.jpg)
+
+---
+
+### 3. Automatic File Organization
+
+Files are automatically moved into their respective category folders such as `Documents`, `Images`, `Music`, `Videos`, and `Scripts`.
+
+![Automatic File Organization](screenshots/Processing.jpg)
+
+---
+
+### 4. Final Organization Summary
+
+After processing all files, the organizer displays a summary containing the number of files organized in each category and the total number of files processed.
+
+![Final Organization Summary](screenshots/AfterProcessing.jpg)
+
+
 ---
 
 ## 🎯 Objectives
